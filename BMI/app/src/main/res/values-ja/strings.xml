@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI計算</string>
+    <string name="heightText">あなたの身長：</string>
+    <string name="weightText">あなたの体重：</string>
+    <string name="calcBtn">BMI計算</string>
+    <string name="bmiMsg">BMIを計算します</string>
+    <string name="errorMsg">身長または体重を確認してください</string>
+    <string name="bmiText">あなたのBMI：</string>
+    <string name="Obesity">肥満です</string>
+    <string name="leanInfo">痩せ型です</string>
+    <string name="standardInfo">標準体重です</string>
+    <string name="littleObesity">やや肥満です</string>
+    <string name="veryObesity">高度肥満です</string>
+    <string name="improveObesity">いますぐ肥満を改善すべきです</string>
+</resources>

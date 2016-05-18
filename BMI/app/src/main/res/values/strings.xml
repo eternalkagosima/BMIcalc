@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="heightText">Your Height:</string>
+    <string name="weightText">Your Weight:</string>
+    <string name="calcBtn">CALC BMI</string>
+    <string name="bmiMsg">Calculate BMI</string>
+    <string name="errorMsg">Enter Number</string>
+    <string name="bmiText">BMI:</string>
+    <string name="leanInfo">It is lean.</string>
+    <string name="standardInfo">It is the standard weight.</string>
+    <string name="littleObesity">It is a little obesity.</string>
+    <string name="Obesity">It is obesity.</string>
+    <string name="veryObesity">It is very obesity.</string>
+    <string name="improveObesity">You should be the improvement of obesity.</string>
+</resources>
